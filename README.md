@@ -9,7 +9,7 @@ Originally created by [shirioko](https://github.com/shirioko)
 
 Uses token generator created by [WhatsAPI Official Team](https://github.com/mgp25/WhatsAPI-Official)
 
-Uses [WhatsApiNet](https://github.com/mgp25/WhatsAPINet) fork by me
+Uses [Chat-API-NET](https://github.com/mgp25/Chat-API-NET)
 
 Requires .NET Framework 4 or Mono Framework
 
