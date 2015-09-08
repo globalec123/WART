@@ -11,6 +11,8 @@ Uses token generator created by [WhatsAPI Official Team](https://github.com/mgp2
 
 Uses [Chat-API-NET](https://github.com/mgp25/Chat-API-NET)
 
+**F.A.Q. and information in the [wiki](https://github.com/mgp25/WART/wiki)**
+
 Requires .NET Framework 4 or Mono Framework
 
 This tool is used to register new phonenumbers and can also be used to retrieve a new password for already registered numbers.
