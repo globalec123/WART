@@ -13,6 +13,8 @@ Uses [Chat-API-NET](https://github.com/mgp25/Chat-API-NET)
 
 **F.A.Q. and information in the [wiki](https://github.com/mgp25/WART/wiki)**
 
+- In case WART isn't working, use this online tool: http://watools.es/pwd.html
+
 Requires .NET Framework 4 or Mono Framework
 
 This tool is used to register new phonenumbers and can also be used to retrieve a new password for already registered numbers.
